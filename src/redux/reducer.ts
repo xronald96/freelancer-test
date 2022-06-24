@@ -6,7 +6,7 @@ export const manageDataReducer = function (state:any = [], action:{type: string,
         return newState};
       case "DELETE":{
         const newState = [...state];
-        newState.slice(action.payload, 1)
+        newState.splice(action.payload, 1)
         return newState
     };
       default:

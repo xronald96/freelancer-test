@@ -1,18 +1,22 @@
 [
         {
-            "name":"pared",
+            "id":"1",
+            "name":"Wall",
             "price":10
         },
         {
-            "name":"techo",
+            "id":"2",
+            "name":"Roof",
             "price":10
         },
         {
-            "name":"rodapie",
+            "id":"3",
+            "name":"Skirting board",
             "price":10
         },
         {
-            "name":"puerta",
+            "id":"4",
+            "name":"Door",
             "price":10
         }
 ]
